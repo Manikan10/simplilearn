@@ -1,4 +1,4 @@
-Feature: Simplilearn Automation
+Feature: Simplilearn Automation using Selenium/Java/Cucumber/Git/Jenkins
 
 
 Scenario: TC001 - Login page
